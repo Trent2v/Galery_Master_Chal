@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
      </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://trent2v.github.io/Galery_Master_Chal/">
       Solution
     </a>
     <span> | </span>
